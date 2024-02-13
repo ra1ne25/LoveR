@@ -1,0 +1,28 @@
+body {
+    background-color: pink;
+    background-image: url("https://img1.picmix.com/output/stamp/normal/9/6/7/6/2336769_b9413.gif");
+    text-align: center;
+    font-family: Arial, sans-serif;
+    position: relative;
+}
+
+.container {
+    margin-top: 15%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+}
+
+.header {
+   color: white;
+   text-shadow: 2px 2px 4px red;
+}
+
+.card-image {
+    width: 500px;
+    height: 400px;
+}
+
